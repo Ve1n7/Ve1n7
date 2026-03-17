@@ -4,4 +4,4 @@ fivem scripts, cheats, anticheat, whatever you need about fivem
 
 ----------
 
-👾 Security is a constant battle — nothing is truly unbreakable
+security is a constant battle nothing is truly unbreakable
